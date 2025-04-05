@@ -72,12 +72,7 @@ The analysis provides a comprehensive overview of the Farmers Insurance dataset,
 
 ## Group Name
 
-DataMasters
-
-## Repository Structure
-
-- `analysis_results.sql`: Contains all the SQL queries used for the analysis.
-- `README.md`: This file, providing an overview of the project, analysis approach, results, and insights.
+Query Crew
 
 ## How to Use
 
