@@ -11,14 +11,3 @@ The primary objective of this analysis is to evaluate and understand the impact 
 ## Group Name
 
 Query Crew
-
-## How to Use
-
-1. **Setup Database:**
-   - Enable `local_infile` option in MySQL.
-   - Create the schema and table using the provided SQL script.
-   - Load the data from the CSV file into the table.
-
-2. **Execute Queries:**
-   - Use the SQL queries provided in `analysis_results.sql` to perform the analysis.
-   - Modify and adapt the queries as needed to explore different aspects of the dataset.
